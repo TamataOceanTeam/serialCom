@@ -1,0 +1,12 @@
+{
+    "AppName": "SerialCommunication",
+    "Version": "1.0.0",
+    "Copyright": "Copyright Open Source - W3Licence",
+    "system": {
+        "serialport" : {
+            "port" : "/dev/tty.SLAB_USBtoUART",
+            "baud" : 9600
+        }
+    }
+    
+}
